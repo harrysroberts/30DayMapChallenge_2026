@@ -1,7 +1,10 @@
 .Rproj.user
+.Rprofile
 .Rhistory
 .RData
 .Ruserdata
 .positai
 *.Rproj
-
+input/
+rjavaenv/
+rosm.cache/
